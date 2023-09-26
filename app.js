@@ -131,3 +131,108 @@ console.log(indx)
 
 
 
+
+// Q8
+
+// var text = "Go!";
+
+
+
+
+
+// Q9
+
+// var text = "To be or not to be.";
+
+
+
+
+// Q10
+
+var str = "abcde";
+var charAt2 = str.charAt(2);
+
+console.log(charAt2);
+
+
+
+
+// Q11
+
+// var str = "abcde";
+
+
+
+
+
+// Q12
+
+// var str = "abcde";
+
+
+
+
+
+
+// ---------------------- chapter 26 ---------------- //
+
+
+// Q1
+
+
+var number = 3.7; 
+var roundedNumber = Math.round(number);
+
+console.log(roundedNumber); 
+
+
+// Q2
+
+
+var origNum = 3.2; 
+var roundNum = Math.ceil(origNum);
+
+console.log(roundNum); 
+
+
+
+// Q3
+
+
+var origNum = 3.8; 
+var roundNum = Math.floor(origNum);
+
+console.log(roundNum); 
+ 
+
+
+
+// Q4
+
+
+var origNum = 3.7; 
+var roundedNum = Math.round(origNum);
+
+console.log(roundedNum); 
+
+ 
+
+
+
+// Q5
+
+
+var originalNumber = 0.5; 
+var roundedNumber = Math.floor(originalNumber);
+
+console.log(roundedNumber); 
+
+
+ 
+
+
+
+
+
+
+
